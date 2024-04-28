@@ -4,7 +4,7 @@ Welcome to the Oslo Bike Sharing System Analysis repository! This project aims t
 ## Summary
 The main objective of the project was to optimize bike distribution to ensure sufficient availability at high-demand stations during peak hours. The project outcome is a dashboard highlighting the stations with the highest values for shortage and surplus at the end of each day, and the build-up of peak hours throughout the day. By using this visualization, users can identify the priority stations for intervention and determine the optimal visit times and bike quantities for distribution. You can visit the dashboard in the following [link.](https://public.tableau.com/app/profile/munozdataviz/viz/OsloBikeShare/NetFlow)
 
-![Final Visualization](visualization/iterations/04 Final.png)
+![FinalVisualization](visualization/iterations/04 Final.png)
 
 
 
