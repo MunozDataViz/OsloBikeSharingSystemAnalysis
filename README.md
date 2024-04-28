@@ -19,7 +19,7 @@ Data Acquisition: I collect data from the Open Data Oslo City Bike platform, ens
 Data Preparation: The acquired data is cleaned, processed, and transformed into a format suitable for analysis. Missing or inaccurate data points are addressed during this stage.
 Dashboard Design: Based on the insights gained from EDA, I design interactive dashboards using Tableau Public. These dashboards visualize key metrics and trends, providing stakeholders with a user-friendly interface to explore the data.
 
-!(diagrams/Pipeline.png)
+![Pipeline](diagrams/Pipeline.png)
 
 ## Dashboard Design Process
 The design of the interactive dashboards follows a structured process:
@@ -29,7 +29,7 @@ Sketching and Wireframing: I sketch initial concepts and create wireframes to vi
 Design Iteration: I iterate on the design based on feedback from stakeholders, refining the layout, visual elements, and interactivity.
 Development: Once the design is finalized, I develop the dashboards using Tableau Public, implementing the necessary visualizations and interactive features.
 
-!(visualization/iterations/Process.png)
+![Design Process](visualization/iterations/Process.png)
 
 ## Repository Structure
 data/: Contains the raw and processed data used in the analysis.
