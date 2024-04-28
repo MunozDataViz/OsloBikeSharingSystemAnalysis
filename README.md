@@ -10,7 +10,7 @@ The main objective of the project was to optimize bike distribution to ensure su
 ## Data Model
 The project utilizes data obtained from the Open Data Oslo City Bike platform. The dataset includes information such as station locations, bike availability, trip durations, and usage patterns. This data serves as the foundation for our analysis and visualization efforts.
 
-!(diagrams/DataModel.png)
+![Data Model](diagrams/DataModel.png)
 
 ## Pipeline
 The analysis pipeline consists of several stages:
