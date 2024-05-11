@@ -36,6 +36,6 @@ def process_files(folder_path, columns_to_select, output_file):
 # Input Information    
 folder_path = '/Users/victormunoz/Documents/GitHub/OsloBikeSharingSystemAnalytics/data/01 raw/bikeTrips'
 columns_to_select = ['start_station_id',	'end_station_id', 'started_at',	'ended_at']  
-output_file = '/Users/victormunoz/Documents/GitHub/OsloBikeSharingSystemAnalytics/data/02 processed/stations.csv'  
+output_file = '/Users/victormunoz/Documents/GitHub/OsloBikeSharingSystemAnalytics/data/02 processed/allTrips.csv'  
 
 process_files(folder_path, columns_to_select, output_file)

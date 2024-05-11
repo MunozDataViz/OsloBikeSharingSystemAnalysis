@@ -1,5 +1,5 @@
 # Oslo Bike Sharing System Analysis
-Welcome to the Oslo Bike Sharing System Analysis repository! This project aims to explore the dynamics of the bike-sharing system in Oslo, and to provide insights that can help improve the overall experience for bike-sharing users in Oslo.
+Welcome to the Oslo Bike Sharing System Analysis repository! This project aims to explore the dynamics of the bike-sharing system in Oslo, and to provide insights that can help improve the overall experience for bike-sharing users in Oslo. I obtained the data from Oslo City Bike’s open data, which you can access through the following [link.] (https://oslobysykkel.no/en/open-data)
 
 ## Summary
 The main objective of the project was to optimize bike distribution to ensure sufficient availability at high-demand stations during peak hours. The project outcome is a dashboard highlighting the stations with the highest values for shortage and surplus at the end of each day, and the build-up of peak hours throughout the day. By using this visualization, users can identify the priority stations for intervention and determine the optimal visit times and bike quantities for distribution. You can visit the dashboard in the following [link.](https://public.tableau.com/app/profile/munozdataviz/viz/OsloBikeShare/NetFlow)
